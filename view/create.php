@@ -20,7 +20,7 @@
             <label class="label"><b>&nbsp;body:&nbsp;</b></label>
             <input type="text" class="form-control" id="new_body" name="new_body" value="">
 
-            <button id="add_btn2" class="btn-primary mt-5" onclick = "create(event)">Submit</button>
+            <button id="add_btn2" class="btn btn-primary mt-5" onclick = "create(event)">Submit</button>
         </form>
         <br>
             <div id="data"></div>
