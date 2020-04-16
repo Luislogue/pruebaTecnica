@@ -28,6 +28,7 @@
             <div id="response"></div>
 
         </main>
+        <button class="btn btn-info"><a href="../view/index.php">Volver</a></button>
     </div>
 </body>
 <script>

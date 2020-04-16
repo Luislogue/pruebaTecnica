@@ -22,7 +22,8 @@
                         <option value="nested">nested</option>
                     </select>
                 </label>
-                <button type="submit" name="button" class="btn-primary">Ir!</button>
+                <br>
+                <button type="submit" name="button" class=" btn btn-primary">Ir!</button>
             </form>   
         </main>
     </div>

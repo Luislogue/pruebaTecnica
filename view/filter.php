@@ -6,11 +6,10 @@
         <header>
             <h1>FILTER</h1>
         </header>
-        <main>
-            <div class="container">
-                <div id=data></div>
-            </div>
+        <main>    
+            <div id=data></div>
         </main>
+        <button class="btn btn-info mt-5 mb-5"><a href="../view/index.php">Volver</a></button>
     </div>
 </body>
 <script src="../assets/js/filter.js"></script>

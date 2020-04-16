@@ -6,9 +6,10 @@
         <header>
             <h1>DELETE</h1>
         </header>
-        <main>
+        <main class="m-5">
             <div id=data></div>
         </main>
+        <button class="btn btn-info mt-5 mb-5"><a href="../view/index.php">Volver</a></button>
     </div>
 </body>
 <script src="../assets/js/delete.js"></script>

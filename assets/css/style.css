@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 650px;
+    height: auto;
+    padding-bottom: 1rem;
+    background-color: rgba(243, 245, 245, 0.685);
+    -webkit-box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2); 
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+}
+header{
+    margin: auto;
+}
+main{
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+button{
+    width: 90px;
+    height: 48px;
+}
