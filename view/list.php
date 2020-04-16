@@ -2,7 +2,7 @@
     require_once '../assets/templates/header.php'
 ?>
 <body onload="listAll()">
-    <div class="container">
+    <div class="container mt-5">
         <header>
             <h1>LIST</h1>
         </header>
